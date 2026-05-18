@@ -1,0 +1,216 @@
+name,email,password,role,department,studentId,class
+Rahmin Zeenat,rahminzeenat1@uos.edu,Cy6k3Ycx,student,Computer Science,BSSE-E1-24-01,BSSE-4A
+Duraiz Abbas,duraizabbas2@uos.edu,p7M8pFhj,student,Computer Science,BSSE-E1-24-02,BSSE-4A
+Ayesha khaleel,ayeshakhaleel3@uos.edu,CwKuIX0k,student,Computer Science,BSSE-24-03,BSSE-4A
+Massab Jamal,massabjamal4@uos.edu,QKkQSBgi,student,Computer Science,BSSE-E1-24-04,BSSE-4A
+Unzla,unzla5@uos.edu,DGc5omES,student,Computer Science,BSSE-E1-24-05,BSSE-4A
+Azzan Haider,azzanhaider6@uos.edu,eKcV7wTX,student,Computer Science,BSSE-E1-24-06,BSSE-4A
+Harmain Gul,harmaingul7@uos.edu,AzEq6nHx,student,Computer Science,BSSE-E1-24-07,BSSE-4A
+Arooj Fatima,aroojfatima8@uos.edu,AlKz5l2n,student,Computer Science,BSSE-E1-24-08,BSSE-4A
+Muhammad Ubaid,muhammadubaid9@uos.edu,oA1mvBSs,student,Computer Science,BSSE-E1-24-09,BSSE-4A
+Ayesha Asghar,ayeshaasghar10@uos.edu,e38Vbmdd,student,Computer Science,BSSE(E1)24-10,BSSE-4A
+Muhammad Sameer Qamar,muhammadsameerqamar11@uos.edu,5M1EarnL,student,Computer Science,BSSE-E1-24-11,BSSE-4A
+Shehar Yar,sheharyar12@uos.edu,ObwKwqjv,student,Computer Science,BSSE-E1-24-12,BSSE-4A
+Hafiz Abdul Manan,hafizabdulmanan13@uos.edu,imc7Yq7u,student,Computer Science,BSSE-E1-24-13,BSSE-4A
+Kainat Shehzad,kainatshehzad14@uos.edu,IstyR0iR,student,Computer Science,BSSE-24-14,BSSE-4A
+Maryam Rafiq,maryamrafiq15@uos.edu,krQd17GH,student,Computer Science,BSSE-E1-24-15,BSSE-4A
+Saif Ullah,saifullah16@uos.edu,huE49Y82,student,Computer Science,BSSE-E1-24-16,BSSE-4A
+Muhammad Shahzaib,muhammadshahzaib17@uos.edu,CipgVLOn,student,Computer Science,BSSE-E1-24-17,BSSE-4A
+Ahmad Bakht Raza,ahmadbakhtraza18@uos.edu,r4KlTCb0,student,Computer Science,BSSE-E1-24-18,BSSE-4A
+Usman Ghani,usmanghani19@uos.edu,OUKFKccv,student,Computer Science,BSSE-E1-24-19,BSSE-4A
+Muhammad Abdullah,muhammadabdullah20@uos.edu,v0FgWxdn,student,Computer Science,BSSE-E1-24-20,BSSE-4A
+Azhan Safdar,azhansafdar21@uos.edu,RNiN6Vo8,student,Computer Science,BSSE-E1-24-21,BSSE-4A
+Abid Hussain,abidhussain22@uos.edu,e15yKp2v,student,Computer Science,BSSE-E1-24-22,BSSE-4A
+Muhammad Ahmad,muhammadahmad23@uos.edu,CEk1RoUA,student,Computer Science,BSSE-E1-24-23,BSSE-4A
+Abdul haseeb ali,abdulhaseebali24@uos.edu,eTb5oBqJ,student,Computer Science,24,BSSE-4A
+Muhammad Arslan Tariq,muhammadarslantariq25@uos.edu,2OGi4OJW,student,Computer Science,BSSE-E1-24-25,BSSE-4A
+Aiman Fatima,aimanfatima26@uos.edu,IoUP5fF9,student,Computer Science,BSSE-E1-24-26,BSSE-4A
+Muhammad Ahmad,muhammadahmad27@uos.edu,CQpJ5qyn,student,Computer Science,BSSE-E1-24-27,BSSE-4A
+Asad Umair,asadumair28@uos.edu,Uql1C6cy,student,Computer Science,BSSE-E1-24-28,BSSE-4A
+Hammad Raza,hammadraza29@uos.edu,XygUhB1M,student,Computer Science,BSSE-E1-24-29,BSSE-4A
+Muhammad Zahid Ashfaq,muhammadzahidashfaq30@uos.edu,P1WDPKrH,student,Computer Science,BSSE-E1-24-30,BSSE-4A
+Syed Haider Ali Shah,syedhaideralishah31@uos.edu,y9N8TVbg,student,Computer Science,BSSE-E1-24-31,BSSE-4A
+Naila,naila32@uos.edu,xT99VGdu,student,Computer Science,BSSE-E1-24-32,BSSE-4A
+Muhammad Adnan,muhammadadnan33@uos.edu,WwUEzDn8,student,Computer Science,BSSE-E1-24-33,BSSE-4A
+Rabia shafiq,rabiashafiq34@uos.edu,JyoSBVRR,student,Computer Science,BS-SE-24-34,BSSE-4A
+Shahroz Ahmad Khan,shahrozahmadkhan35@uos.edu,BE0SdBls,student,Computer Science,BSSE-E1-24-35,BSSE-4A
+Mubshra Eman,mubshraeman36@uos.edu,4b9kqqHz,student,Computer Science,BSSE-E1-24-36,BSSE-4A
+Sualiha Noor,sualihanoor37@uos.edu,zwHTcyGs,student,Computer Science,BSSE-E1-24-37,BSSE-4A
+Amna Mansha,amnamansha38@uos.edu,h1CVn8Dg,student,Computer Science,BSSE-E1-24-38,BSSE-4A
+Jamshid Badar,jamshidbadar39@uos.edu,Y8ZHUX56,student,Computer Science,BSSE-E1-24-39,BSSE-4A
+Noor Fatima,noorfatima40@uos.edu,ILJtVtwG,student,Computer Science,BSSE-E1-24-40,BSSE-4A
+Muhammad Abdullah,muhammadabdullah41@uos.edu,8TpsbtP8,student,Computer Science,BSSE E1-24-41,BSSE-4A
+Muhammad Ahmad,muhammadahmad42@uos.edu,I6LIM6B2,student,Computer Science,BSSE-E1-24-42,BSSE-4A
+Muskan Sultan,muskansultan43@uos.edu,PF0taAMH,student,Computer Science,BSSE-E1-24-43,BSSE-4A
+Dua Mariyam,duamariyam44@uos.edu,ZBQekk8T,student,Computer Science,BSSE-E1-24-44,BSSE-4A
+Junaid Iqbal,junaidiqbal45@uos.edu,HIxwEwH9,student,Computer Science,BSSE-E1-24-45,BSSE-4A
+Abdul Rauf,abdulrauf46@uos.edu,acrmbhGm,student,Computer Science,BSSE-E1-24-46,BSSE-4A
+Saim Ramzan,saimramzan47@uos.edu,xQf3R1OB,student,Computer Science,BSSE-E1-24-47,BSSE-4A
+Muhammad Faisal,muhammadfaisal48@uos.edu,VMRcMypV,student,Computer Science,BSSE-E1-24-48,BSSE-4A
+Zartasha,zartasha49@uos.edu,3Mm0R52i,student,Computer Science,BSSE-E1-24-49,BSSE-4A
+Absar Ul Haq,absarulhaq50@uos.edu,FM9phYF2,student,Computer Science,BSSE-E1-24-50,BSSE-4A
+Dr. Anum Malik,anum.malik@uos.edu,jnKDx4er,teacher,Business Administration,,
+Mr. Salman Malik,salman.malik@uos.edu,Z5F5e7Qq,teacher,Business Administration,,
+Mr. Farhan Jamil,farhan.jamil@uos.edu,IvyhagKM,teacher,Chemistry,,
+Prof. Yasir Sheikh,yasir.sheikh@uos.edu,Ai9ai9lI,teacher,Computer Science,,
+Dr. Yasir Hussain,yasir.hussain@uos.edu,8U7GU1L2,teacher,Business Administration,,
+Prof. Zara Khan,zara.khan@uos.edu,G244xZAt,teacher,Physics,,
+Prof. Imran Hussain,imran.hussain@uos.edu,iLPRJtDe,teacher,Physics,,
+Dr. Farah Mehmood,farah.mehmood@uos.edu,9lZNqrPY,teacher,Law & Criminology,,
+Mr. Hamza Malik,hamza.malik@uos.edu,7enMBVPw,teacher,Physics,,
+Prof. Hamza Malik,hamza.malik1@uos.edu,8ovqjH55,teacher,Physics,,
+Dr. Saira Hassan,saira.hassan@uos.edu,uB6rvHRD,teacher,Law & Criminology,,
+Prof. Sadia Iqbal,sadia.iqbal@uos.edu,ScIy46rS,teacher,Business Administration,,
+Ms. Hina Farooq,hina.farooq@uos.edu,Eo0BJNzj,teacher,English,,
+Dr. Madiha Qureshi,madiha.qureshi@uos.edu,2l0otUVT,teacher,Physics,,
+Ms. Anum Nawaz,anum.nawaz@uos.edu,nI9x9eEe,teacher,Computer Science,,
+Prof. Ali Ali,ali.ali@uos.edu,P8GEK4UC,teacher,English,,
+Dr. Sana Saleem,sana.saleem@uos.edu,sl4EE0Yv,teacher,English,,
+Prof. Anum Nawaz,anum.nawaz1@uos.edu,Wqp6lde1,teacher,Chemistry,,
+Mr. Qasim Sheikh,qasim.sheikh@uos.edu,NR8Ls2ZC,teacher,Computer Science,,
+Mr. Rashid Khan,rashid.khan@uos.edu,1DFJI68B,teacher,Economics,,
+Prof. Ali Jamil,ali.jamil@uos.edu,UPlaZ6KO,department-head,Business Administration,,
+Prof. Rabia Nawaz,rabia.nawaz@uos.edu,soMJ9Eia,department-head,Physics,,
+Prof. Waqas Shah,waqas.shah@uos.edu,PSbadjYJ,department-head,Chemistry,,
+Dr. Muhammad Shah,muhammad.shah@uos.edu,T05HvsPc,department-head,Computer Science,,
+Prof. Hamza Sheikh,hamza.sheikh@uos.edu,RXX3SP2a,department-head,English,,
+Waqas Shah,waqasshah10@uos.edu,E4EVYcmH,student,Computer Science,BSCS-24-01,BSCS-4A
+Salman Jamil,salmanjamil10@uos.edu,KfvmLEvx,student,Computer Science,BSCS-24-02,BSCS-4A
+Ayesha Raza,ayesharaza23@uos.edu,S0ynsoRe,student,Computer Science,BSCS-24-03,BSCS-4A
+Muhammad Hussain,muhammadhussain85@uos.edu,sV6Q47JF,student,Computer Science,BSCS-24-04,BSCS-4A
+Umar Iqbal,umariqbal67@uos.edu,S1tm5Ke5,student,Computer Science,BSCS-24-05,BSCS-4A
+Yasir Malik,yasirmalik25@uos.edu,DoaOsyb6,student,Computer Science,BSCS-24-06,BSCS-4A
+Iqra Jamil,iqrajamil90@uos.edu,zAASsMQE,student,Computer Science,BSCS-24-07,BSCS-4A
+Waqas Hassan,waqashassan72@uos.edu,8JchnHxm,student,Computer Science,BSCS-24-08,BSCS-4A
+Rimsha Jamil,rimshajamil64@uos.edu,ksSDQf9u,student,Computer Science,BSCS-24-09,BSCS-4A
+Faisal Hassan,faisalhassan36@uos.edu,TITVpyIl,student,Computer Science,BSCS-24-10,BSCS-4A
+Fatima Ali,fatimaali12@uos.edu,PpjZ4G6h,student,Computer Science,BSCS-24-11,BSCS-4A
+Farah Rehman,farahrehman66@uos.edu,8yVSPPnE,student,Computer Science,BSCS-24-12,BSCS-4A
+Hussain Rehman,hussainrehman28@uos.edu,1Tq7NZoa,student,Computer Science,BSCS-24-13,BSCS-4A
+Zain Hussain,zainhussain25@uos.edu,UK4vGUTX,student,Computer Science,BSCS-24-14,BSCS-4A
+Kamran Hassan,kamranhassan29@uos.edu,ahOFfWDj,student,Computer Science,BSCS-24-15,BSCS-4A
+Sana Jamil,sanajamil66@uos.edu,fTe84wVm,student,Computer Science,BSCS-24-16,BSCS-4A
+Arooj Saleem,aroojsaleem28@uos.edu,F4N0rVdJ,student,Computer Science,BSCS-24-17,BSCS-4A
+Yasir Bashir,yasirbashir23@uos.edu,TXlNBdsO,student,Computer Science,BSCS-24-18,BSCS-4A
+Kiran Bashir,kiranbashir42@uos.edu,1jjcz2Fg,student,Computer Science,BSCS-24-19,BSCS-4A
+Usman Abbas,usmanabbas36@uos.edu,nODQSshZ,student,Computer Science,BSCS-24-20,BSCS-4A
+Hamza Sheikh,hamzasheikh38@uos.edu,hSrjuEa1,student,Law & Criminology,BSLAW-24-01,BSLAW-4A
+Hamza Farooq,hamzafarooq38@uos.edu,XpLQlnN2,student,Law & Criminology,BSLAW-24-02,BSLAW-4A
+Imran Ahmed,imranahmed26@uos.edu,OfKkEGxI,student,Law & Criminology,BSLAW-24-03,BSLAW-4A
+Salman Saleem,salmansaleem16@uos.edu,Mr6XnFlh,student,Law & Criminology,BSLAW-24-04,BSLAW-4A
+Farhan Tariq,farhantariq22@uos.edu,cKsA9cvG,student,Law & Criminology,BSLAW-24-05,BSLAW-4A
+Hira Khan,hirakhan60@uos.edu,sMiTXtkz,student,Law & Criminology,BSLAW-24-06,BSLAW-4A
+Shahzaib Akhtar,shahzaibakhtar24@uos.edu,mSuNPIU7,student,Law & Criminology,BSLAW-24-07,BSLAW-4A
+Adeel Ahmed,adeelahmed19@uos.edu,BLpMBA3e,student,Law & Criminology,BSLAW-24-08,BSLAW-4A
+Shahzaib Farooq,shahzaibfarooq76@uos.edu,Hugeqlv5,student,Law & Criminology,BSLAW-24-09,BSLAW-4A
+Hira Hassan,hirahassan84@uos.edu,C8ijrbNs,student,Law & Criminology,BSLAW-24-10,BSLAW-4A
+Kainat Ali,kainatali95@uos.edu,Q4g3II6U,student,Law & Criminology,BSLAW-24-11,BSLAW-4A
+Saad Shah,saadshah26@uos.edu,7SR1Clem,student,Law & Criminology,BSLAW-24-12,BSLAW-4A
+Iqra Hussain,iqrahussain89@uos.edu,aj9dsOHE,student,Law & Criminology,BSLAW-24-13,BSLAW-4A
+Bilal Tariq,bilaltariq14@uos.edu,oAXeIb9J,student,Law & Criminology,BSLAW-24-14,BSLAW-4A
+Rimsha Ali,rimshaali49@uos.edu,hOKJK88a,student,Law & Criminology,BSLAW-24-15,BSLAW-4A
+Bilal Farooq,bilalfarooq17@uos.edu,7cE5BdmH,student,Law & Criminology,BSLAW-24-16,BSLAW-4A
+Qasim Abbas,qasimabbas31@uos.edu,896Mkr0b,student,Law & Criminology,BSLAW-24-17,BSLAW-4A
+Ayesha Iqbal,ayeshaiqbal46@uos.edu,TtmFDhQW,student,Law & Criminology,BSLAW-24-18,BSLAW-4A
+Arooj Tariq,aroojtariq91@uos.edu,LA7llaWL,student,Law & Criminology,BSLAW-24-19,BSLAW-4A
+Ahmed Saleem,ahmedsaleem80@uos.edu,gYFKcI6G,student,Law & Criminology,BSLAW-24-20,BSLAW-4A
+Arooj Nawaz,aroojnawaz68@uos.edu,dRt7vmHw,student,Business Administration,BBA-24-01,BBA-4A
+Maryam Malik,maryammalik78@uos.edu,Vs6GDM8r,student,Business Administration,BBA-24-02,BBA-4A
+Kiran Saleem,kiransaleem28@uos.edu,7a15cblX,student,Business Administration,BBA-24-03,BBA-4A
+Nida Akhtar,nidaakhtar45@uos.edu,1TYnDlov,student,Business Administration,BBA-24-04,BBA-4A
+Qasim Zafar,qasimzafar21@uos.edu,Ery82PhE,student,Business Administration,BBA-24-05,BBA-4A
+Qasim Saleem,qasimsaleem35@uos.edu,NOhhRdcR,student,Business Administration,BBA-24-06,BBA-4A
+Hassan Mehmood,hassanmehmood79@uos.edu,vBprRw3x,student,Business Administration,BBA-24-07,BBA-4A
+Imran Tariq,imrantariq19@uos.edu,E4dieXRD,student,Business Administration,BBA-24-08,BBA-4A
+Nadia Shah,nadiashah82@uos.edu,SXaFCWT3,student,Business Administration,BBA-24-09,BBA-4A
+Amna Hassan,amnahassan43@uos.edu,AqDzOYLT,student,Business Administration,BBA-24-10,BBA-4A
+Zara Qureshi,zaraqureshi25@uos.edu,GVWiAW8r,student,Business Administration,BBA-24-11,BBA-4A
+Ayesha Tariq,ayeshatariq85@uos.edu,HPH7SLrb,student,Business Administration,BBA-24-12,BBA-4A
+Fatima Shah,fatimashah78@uos.edu,J4Jo4Ky2,student,Business Administration,BBA-24-13,BBA-4A
+Zara Iqbal,zaraiqbal62@uos.edu,1fjxooUQ,student,Business Administration,BBA-24-14,BBA-4A
+Rimsha Aslam,rimshaaslam25@uos.edu,gkNJJFCG,student,Business Administration,BBA-24-15,BBA-4A
+Saad Hassan,saadhassan68@uos.edu,g7ZMYMrT,student,Business Administration,BBA-24-16,BBA-4A
+Rimsha Zafar,rimshazafar63@uos.edu,9jAETiC9,student,Business Administration,BBA-24-17,BBA-4A
+Zara Akhtar,zaraakhtar91@uos.edu,NcOFqNnn,student,Business Administration,BBA-24-18,BBA-4A
+Maryam Hussain,maryamhussain73@uos.edu,4RFBSSTC,student,Business Administration,BBA-24-19,BBA-4A
+Nadia Raza,nadiaraza89@uos.edu,OPqM6VZI,student,Business Administration,BBA-24-20,BBA-4A
+Qasim Aslam,qasimaslam58@uos.edu,lbTbnCdq,student,Physics,BSPHY-24-01,BSPHY-4A
+Arooj Hussain,aroojhussain24@uos.edu,iaNZWFb3,student,Physics,BSPHY-24-02,BSPHY-4A
+Rimsha Saleem,rimshasaleem58@uos.edu,fSmBBWji,student,Physics,BSPHY-24-03,BSPHY-4A
+Madiha Abbas,madihaabbas86@uos.edu,wzodTvDa,student,Physics,BSPHY-24-04,BSPHY-4A
+Fatima Jamil,fatimajamil75@uos.edu,6ut3W6SN,student,Physics,BSPHY-24-05,BSPHY-4A
+Imran Nawaz,imrannawaz49@uos.edu,ufqTAPGY,student,Physics,BSPHY-24-06,BSPHY-4A
+Adeel Hassan,adeelhassan47@uos.edu,vGk51MSa,student,Physics,BSPHY-24-07,BSPHY-4A
+Bilal Ahmed,bilalahmed43@uos.edu,nb5gH5nI,student,Physics,BSPHY-24-08,BSPHY-4A
+Mahnoor Bashir,mahnoorbashir12@uos.edu,Tz8RL8pt,student,Physics,BSPHY-24-09,BSPHY-4A
+Kainat Raza,kainatraza14@uos.edu,cDtCmsgR,student,Physics,BSPHY-24-10,BSPHY-4A
+Anum Saleem,anumsaleem29@uos.edu,F5i5qvo4,student,Physics,BSPHY-24-11,BSPHY-4A
+Mahnoor Nawaz,mahnoornawaz69@uos.edu,paIknQ6u,student,Physics,BSPHY-24-12,BSPHY-4A
+Hassan Nawaz,hassannawaz17@uos.edu,VGCA9p8J,student,Physics,BSPHY-24-13,BSPHY-4A
+Iqra Aslam,iqraaslam37@uos.edu,qtRSnWDN,student,Physics,BSPHY-24-14,BSPHY-4A
+Rashid Sheikh,rashidsheikh94@uos.edu,cAPJ0UOp,student,Physics,BSPHY-24-15,BSPHY-4A
+Tariq Mehmood,tariqmehmood61@uos.edu,oQC30Zq4,student,Physics,BSPHY-24-16,BSPHY-4A
+Kamran Zafar,kamranzafar30@uos.edu,0QHJi661,student,Physics,BSPHY-24-17,BSPHY-4A
+Umar Sheikh,umarsheikh38@uos.edu,iNiTWviC,student,Physics,BSPHY-24-18,BSPHY-4A
+Arooj Hussain,aroojhussain31@uos.edu,ybWwNGSB,student,Physics,BSPHY-24-19,BSPHY-4A
+Nida Farooq,nidafarooq38@uos.edu,M3xqBEcR,student,Physics,BSPHY-24-20,BSPHY-4A
+Bilal Zafar,bilalzafar46@uos.edu,4UhPKmNa,student,Chemistry,BSCHE-24-01,BSCHE-4A
+Rabia Jamil,rabiajamil34@uos.edu,6WhhNsRl,student,Chemistry,BSCHE-24-02,BSCHE-4A
+Saira Jamil,sairajamil67@uos.edu,fDCBB3tc,student,Chemistry,BSCHE-24-03,BSCHE-4A
+Mahnoor Hassan,mahnoorhassan46@uos.edu,6LRNbLDC,student,Chemistry,BSCHE-24-04,BSCHE-4A
+Kiran Bashir,kiranbashir10@uos.edu,MXzp8U4H,student,Chemistry,BSCHE-24-05,BSCHE-4A
+Adeel Rehman,adeelrehman11@uos.edu,dRMLook4,student,Chemistry,BSCHE-24-06,BSCHE-4A
+Amna Saleem,amnasaleem26@uos.edu,m21q04Pn,student,Chemistry,BSCHE-24-07,BSCHE-4A
+Zainab Khan,zainabkhan99@uos.edu,v3lzhKdM,student,Chemistry,BSCHE-24-08,BSCHE-4A
+Sadia Malik,sadiamalik92@uos.edu,Z4SWz5d2,student,Chemistry,BSCHE-24-09,BSCHE-4A
+Farah Sheikh,farahsheikh56@uos.edu,BuLjrLOV,student,Chemistry,BSCHE-24-10,BSCHE-4A
+Rabia Abbas,rabiaabbas50@uos.edu,t8m19xtQ,student,Chemistry,BSCHE-24-11,BSCHE-4A
+Kamran Malik,kamranmalik62@uos.edu,6zva6Oxp,student,Chemistry,BSCHE-24-12,BSCHE-4A
+Hina Nawaz,hinanawaz94@uos.edu,uNuERvc7,student,Chemistry,BSCHE-24-13,BSCHE-4A
+Qasim Aslam,qasimaslam63@uos.edu,oW4HiibV,student,Chemistry,BSCHE-24-14,BSCHE-4A
+Hamza Shah,hamzashah69@uos.edu,a0Mamqds,student,Chemistry,BSCHE-24-15,BSCHE-4A
+Rabia Bashir,rabiabashir42@uos.edu,SagC3tix,student,Chemistry,BSCHE-24-16,BSCHE-4A
+Mahnoor Farooq,mahnoorfarooq44@uos.edu,4hdX6NyZ,student,Chemistry,BSCHE-24-17,BSCHE-4A
+Sana Khan,sanakhan96@uos.edu,9Aa6T4OG,student,Chemistry,BSCHE-24-18,BSCHE-4A
+Arooj Aslam,aroojaslam58@uos.edu,mPZ25TRC,student,Chemistry,BSCHE-24-19,BSCHE-4A
+Zeeshan Akhtar,zeeshanakhtar71@uos.edu,BABLRRfT,student,Chemistry,BSCHE-24-20,BSCHE-4A
+Ahmed Aslam,ahmedaslam20@uos.edu,eFzcjFfj,student,Economics,BSECO-24-01,BSECO-4A
+Anum Shah,anumshah25@uos.edu,8nMV4ttm,student,Economics,BSECO-24-02,BSECO-4A
+Yasir Tariq,yasirtariq39@uos.edu,LViESAvQ,student,Economics,BSECO-24-03,BSECO-4A
+Waqas Malik,waqasmalik17@uos.edu,4bLJblxl,student,Economics,BSECO-24-04,BSECO-4A
+Qasim Rehman,qasimrehman25@uos.edu,5zNaWkgh,student,Economics,BSECO-24-05,BSECO-4A
+Salman Sheikh,salmansheikh53@uos.edu,oxA8AM7B,student,Economics,BSECO-24-06,BSECO-4A
+Sadia Aslam,sadiaaslam82@uos.edu,teYuzXpK,student,Economics,BSECO-24-07,BSECO-4A
+Mahnoor Qureshi,mahnoorqureshi20@uos.edu,SOsAccJO,student,Economics,BSECO-24-08,BSECO-4A
+Madiha Rehman,madiharehman36@uos.edu,aegCKHym,student,Economics,BSECO-24-09,BSECO-4A
+Anum Hussain,anumhussain53@uos.edu,ulmhiCHo,student,Economics,BSECO-24-10,BSECO-4A
+Anum Ali,anumali22@uos.edu,sDOkGXYc,student,Economics,BSECO-24-11,BSECO-4A
+Muhammad Saleem,muhammadsaleem12@uos.edu,BR749qEL,student,Economics,BSECO-24-12,BSECO-4A
+Zeeshan Rehman,zeeshanrehman19@uos.edu,NM0orQCK,student,Economics,BSECO-24-13,BSECO-4A
+Amna Mehmood,amnamehmood78@uos.edu,plUZQJge,student,Economics,BSECO-24-14,BSECO-4A
+Madiha Nawaz,madihanawaz16@uos.edu,8mtyLKzr,student,Economics,BSECO-24-15,BSECO-4A
+Rabia Farooq,rabiafarooq98@uos.edu,CdI6TmAO,student,Economics,BSECO-24-16,BSECO-4A
+Saad Hassan,saadhassan55@uos.edu,OmHvpGMG,student,Economics,BSECO-24-17,BSECO-4A
+Umar Malik,umarmalik18@uos.edu,7aNFqzKX,student,Economics,BSECO-24-18,BSECO-4A
+Arooj Iqbal,aroojiqbal49@uos.edu,S1oCglgC,student,Economics,BSECO-24-19,BSECO-4A
+Sadia Ali,sadiaali11@uos.edu,jMlbh8sv,student,Economics,BSECO-24-20,BSECO-4A
+Arooj Iqbal,aroojiqbal23@uos.edu,0XTkjNF5,student,English,BSENG-24-01,BSENG-4A
+Rashid Abbas,rashidabbas31@uos.edu,15kePGca,student,English,BSENG-24-02,BSENG-4A
+Maryam Saleem,maryamsaleem13@uos.edu,oihwMaym,student,English,BSENG-24-03,BSENG-4A
+Iqra Saleem,iqrasaleem13@uos.edu,WrOwEIqs,student,English,BSENG-24-04,BSENG-4A
+Kainat Iqbal,kainatiqbal30@uos.edu,tMb29jxj,student,English,BSENG-24-05,BSENG-4A
+Anum Saleem,anumsaleem39@uos.edu,tTaN7CJk,student,English,BSENG-24-06,BSENG-4A
+Zeeshan Mehmood,zeeshanmehmood24@uos.edu,tWx7WXli,student,English,BSENG-24-07,BSENG-4A
+Fatima Tariq,fatimatariq81@uos.edu,7Gq1hK0h,student,English,BSENG-24-08,BSENG-4A
+Hina Sheikh,hinasheikh51@uos.edu,4dncpHiS,student,English,BSENG-24-09,BSENG-4A
+Hassan Hassan,hassanhassan67@uos.edu,tSijJyjg,student,English,BSENG-24-10,BSENG-4A
+Muhammad Mehmood,muhammadmehmood73@uos.edu,xXjqa1ei,student,English,BSENG-24-11,BSENG-4A
+Mahnoor Tariq,mahnoortariq82@uos.edu,ZFfGletu,student,English,BSENG-24-12,BSENG-4A
+Nabeel Hussain,nabeelhussain33@uos.edu,hlTR43rj,student,English,BSENG-24-13,BSENG-4A
+Hina Nawaz,hinanawaz49@uos.edu,3CimNpsP,student,English,BSENG-24-14,BSENG-4A
+Kamran Shah,kamranshah59@uos.edu,qpDNW35c,student,English,BSENG-24-15,BSENG-4A
+Faisal Akhtar,faisalakhtar57@uos.edu,h1CKuEDt,student,English,BSENG-24-16,BSENG-4A
+Farah Aslam,farahaslam87@uos.edu,KqKcDdyE,student,English,BSENG-24-17,BSENG-4A
+Umar Khan,umarkhan41@uos.edu,fj5QuRRD,student,English,BSENG-24-18,BSENG-4A
+Adeel Zafar,adeelzafar64@uos.edu,hoMi5Wiy,student,English,BSENG-24-19,BSENG-4A
+Mahnoor Farooq,mahnoorfarooq29@uos.edu,YHQ2wfJP,student,English,BSENG-24-20,BSENG-4A

@@ -1,0 +1,139 @@
+
+> campusos@0.1.0 build
+> next build
+
+  ▲ Next.js 14.2.35
+  - Environments: .env.local
+
+   Creating an optimized production build ...
+ ✓ Compiled successfully
+   Linting and checking validity of types ...
+
+./src/app/admin/users/page.tsx
+66:38  Warning: React Hook useEffect has a missing dependency: 'fetchUsers'. Either include it or remove the dependency array.  react-hooks/exhaustive-deps
+
+info  - Need to disable some ESLint rules? Learn more here: https://nextjs.org/docs/basic-features/eslint#disabling-rules
+   Collecting page data ...
+   Generating static pages (0/55) ...
+B [Error]: Dynamic server usage: Route /api/admin/dashboard couldn't be rendered statically because it used `request.headers`. See more info here: https://nextjs.org/docs/messages/dynamic-server-error
+    at V (/home/chaudary-rauf/Videos/AI SMART CAMPUSOS/campusos/node_modules/next/dist/compiled/next-server/app-route.runtime.prod.js:6:21778)
+    at Object.get (/home/chaudary-rauf/Videos/AI SMART CAMPUSOS/campusos/node_modules/next/dist/compiled/next-server/app-route.runtime.prod.js:6:29465)
+    at d (/home/chaudary-rauf/Videos/AI SMART CAMPUSOS/campusos/.next/server/app/api/admin/dashboard/route.js:1:700)
+    at /home/chaudary-rauf/Videos/AI SMART CAMPUSOS/campusos/node_modules/next/dist/compiled/next-server/app-route.runtime.prod.js:6:38417
+    at /home/chaudary-rauf/Videos/AI SMART CAMPUSOS/campusos/node_modules/next/dist/server/lib/trace/tracer.js:140:36
+    at NoopContextManager.with (/home/chaudary-rauf/Videos/AI SMART CAMPUSOS/campusos/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:7062)
+    at ContextAPI.with (/home/chaudary-rauf/Videos/AI SMART CAMPUSOS/campusos/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:518)
+    at NoopTracer.startActiveSpan (/home/chaudary-rauf/Videos/AI SMART CAMPUSOS/campusos/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:18093)
+    at ProxyTracer.startActiveSpan (/home/chaudary-rauf/Videos/AI SMART CAMPUSOS/campusos/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:18854)
+    at /home/chaudary-rauf/Videos/AI SMART CAMPUSOS/campusos/node_modules/next/dist/server/lib/trace/tracer.js:122:103 {
+  description: "Route /api/admin/dashboard couldn't be rendered statically because it used `request.headers`. See more info here: https://nextjs.org/docs/messages/dynamic-server-error",
+  digest: 'DYNAMIC_SERVER_USAGE'
+}
+   Generating static pages (13/55) 
+B [Error]: Dynamic server usage: Route /api/department/dashboard couldn't be rendered statically because it used `request.headers`. See more info here: https://nextjs.org/docs/messages/dynamic-server-error
+    at V (/home/chaudary-rauf/Videos/AI SMART CAMPUSOS/campusos/node_modules/next/dist/compiled/next-server/app-route.runtime.prod.js:6:21778)
+    at Object.get (/home/chaudary-rauf/Videos/AI SMART CAMPUSOS/campusos/node_modules/next/dist/compiled/next-server/app-route.runtime.prod.js:6:29465)
+    at c (/home/chaudary-rauf/Videos/AI SMART CAMPUSOS/campusos/.next/server/app/api/department/dashboard/route.js:1:700)
+    at /home/chaudary-rauf/Videos/AI SMART CAMPUSOS/campusos/node_modules/next/dist/compiled/next-server/app-route.runtime.prod.js:6:38417
+    at /home/chaudary-rauf/Videos/AI SMART CAMPUSOS/campusos/node_modules/next/dist/server/lib/trace/tracer.js:140:36
+    at NoopContextManager.with (/home/chaudary-rauf/Videos/AI SMART CAMPUSOS/campusos/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:7062)
+    at ContextAPI.with (/home/chaudary-rauf/Videos/AI SMART CAMPUSOS/campusos/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:518)
+    at NoopTracer.startActiveSpan (/home/chaudary-rauf/Videos/AI SMART CAMPUSOS/campusos/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:18093)
+    at ProxyTracer.startActiveSpan (/home/chaudary-rauf/Videos/AI SMART CAMPUSOS/campusos/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:18854)
+    at /home/chaudary-rauf/Videos/AI SMART CAMPUSOS/campusos/node_modules/next/dist/server/lib/trace/tracer.js:122:103 {
+  description: "Route /api/department/dashboard couldn't be rendered statically because it used `request.headers`. See more info here: https://nextjs.org/docs/messages/dynamic-server-error",
+  digest: 'DYNAMIC_SERVER_USAGE'
+}
+B [Error]: Dynamic server usage: Route /api/teacher/dashboard couldn't be rendered statically because it used `request.headers`. See more info here: https://nextjs.org/docs/messages/dynamic-server-error
+    at V (/home/chaudary-rauf/Videos/AI SMART CAMPUSOS/campusos/node_modules/next/dist/compiled/next-server/app-route.runtime.prod.js:6:21778)
+    at Object.get (/home/chaudary-rauf/Videos/AI SMART CAMPUSOS/campusos/node_modules/next/dist/compiled/next-server/app-route.runtime.prod.js:6:29465)
+    at d (/home/chaudary-rauf/Videos/AI SMART CAMPUSOS/campusos/.next/server/app/api/teacher/dashboard/route.js:1:700)
+    at /home/chaudary-rauf/Videos/AI SMART CAMPUSOS/campusos/node_modules/next/dist/compiled/next-server/app-route.runtime.prod.js:6:38417
+    at /home/chaudary-rauf/Videos/AI SMART CAMPUSOS/campusos/node_modules/next/dist/server/lib/trace/tracer.js:140:36
+    at NoopContextManager.with (/home/chaudary-rauf/Videos/AI SMART CAMPUSOS/campusos/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:7062)
+    at ContextAPI.with (/home/chaudary-rauf/Videos/AI SMART CAMPUSOS/campusos/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:518)
+    at NoopTracer.startActiveSpan (/home/chaudary-rauf/Videos/AI SMART CAMPUSOS/campusos/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:18093)
+    at ProxyTracer.startActiveSpan (/home/chaudary-rauf/Videos/AI SMART CAMPUSOS/campusos/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:18854)
+    at /home/chaudary-rauf/Videos/AI SMART CAMPUSOS/campusos/node_modules/next/dist/server/lib/trace/tracer.js:122:103 {
+  description: "Route /api/teacher/dashboard couldn't be rendered statically because it used `request.headers`. See more info here: https://nextjs.org/docs/messages/dynamic-server-error",
+  digest: 'DYNAMIC_SERVER_USAGE'
+}
+   Generating static pages (27/55) 
+   Generating static pages (41/55) 
+ ✓ Generating static pages (55/55)
+   Finalizing page optimization ...
+   Collecting build traces ...
+
+Route (app)                              Size     First Load JS
+┌ ○ /                                    139 B          87.6 kB
+├ ○ /_not-found                          876 B          88.4 kB
+├ ○ /admin/ai-knowledge                  4.86 kB         133 kB
+├ ○ /admin/announcements                 292 B           136 kB
+├ ○ /admin/complaints                    4.72 kB         133 kB
+├ ○ /admin/dashboard                     113 kB          242 kB
+├ ○ /admin/users                         4.96 kB         136 kB
+├ ƒ /api/admin/dashboard                 0 B                0 B
+├ ƒ /api/admin/students                  0 B                0 B
+├ ƒ /api/admin/students/[id]             0 B                0 B
+├ ƒ /api/admin/students/import           0 B                0 B
+├ ƒ /api/ai/chat                         0 B                0 B
+├ ƒ /api/ai/documents                    0 B                0 B
+├ ƒ /api/ai/documents/[id]               0 B                0 B
+├ ƒ /api/ai/sessions                     0 B                0 B
+├ ƒ /api/ai/sessions/[id]                0 B                0 B
+├ ƒ /api/ai/sessions/[id]/messages       0 B                0 B
+├ ƒ /api/announcements                   0 B                0 B
+├ ƒ /api/announcements/[id]              0 B                0 B
+├ ƒ /api/assignments                     0 B                0 B
+├ ƒ /api/assignments/[id]                0 B                0 B
+├ ƒ /api/attendance                      0 B                0 B
+├ ƒ /api/auth/login                      0 B                0 B
+├ ƒ /api/auth/logout                     0 B                0 B
+├ ƒ /api/auth/me                         0 B                0 B
+├ ƒ /api/auth/seed                       0 B                0 B
+├ ƒ /api/auth/signup                     0 B                0 B
+├ ƒ /api/classes                         0 B                0 B
+├ ƒ /api/classes/mine                    0 B                0 B
+├ ƒ /api/complaints                      0 B                0 B
+├ ƒ /api/complaints/[id]                 0 B                0 B
+├ ƒ /api/courses                         0 B                0 B
+├ ƒ /api/courses/[id]                    0 B                0 B
+├ ƒ /api/department/dashboard            0 B                0 B
+├ ƒ /api/department/faculty              0 B                0 B
+├ ○ /api/departments                     0 B                0 B
+├ ƒ /api/export                          0 B                0 B
+├ ƒ /api/notifications                   0 B                0 B
+├ ƒ /api/notifications/read              0 B                0 B
+├ ƒ /api/student/dashboard               0 B                0 B
+├ ƒ /api/teacher/dashboard               0 B                0 B
+├ ƒ /api/upload                          0 B                0 B
+├ ○ /auth                                3.24 kB         132 kB
+├ ○ /department/announcements            389 B           136 kB
+├ ○ /department/courses                  840 B           129 kB
+├ ○ /department/dashboard                2.77 kB         131 kB
+├ ○ /department/faculty                  1.33 kB         130 kB
+├ ○ /department/reports                  894 B           129 kB
+├ ○ /department/settings                 742 B           129 kB
+├ ○ /student/ai                          49.6 kB         178 kB
+├ ○ /student/announcements               4.42 kB         133 kB
+├ ○ /student/complaints                  5.8 kB          134 kB
+├ ○ /student/dashboard                   2.73 kB         131 kB
+├ ○ /student/settings                    765 B           129 kB
+├ ○ /student/timetable                   784 B           129 kB
+├ ○ /teacher/announcements               389 B           136 kB
+├ ○ /teacher/courses                     1.72 kB         130 kB
+├ ○ /teacher/dashboard                   1.91 kB         130 kB
+├ ○ /teacher/marks                       893 B           129 kB
+├ ○ /teacher/settings                    868 B           129 kB
+└ ○ /teacher/timetable                   830 B           129 kB
++ First Load JS shared by all            87.5 kB
+  ├ chunks/117-e8b5821ac153ec0e.js       31.9 kB
+  ├ chunks/fd9d1056-17ce1eb79d6b0ab3.js  53.6 kB
+  └ other shared chunks (total)          1.96 kB
+
+
+ƒ Middleware                             26.8 kB
+
+○  (Static)   prerendered as static content
+ƒ  (Dynamic)  server-rendered on demand
+
